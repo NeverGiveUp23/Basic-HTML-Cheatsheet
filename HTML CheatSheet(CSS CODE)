@@ -1,0 +1,35 @@
+h2 {
+  display:inline-block;
+  border-bottom: 2px solid;
+  
+}
+
+
+.header, h1 {
+  text-align: center;
+  background-color: rgb(150,213,155);
+  position: fixed;
+  height:115px;
+  width: 100%;
+  letter-spacing: 2px;
+}
+
+table {
+  padding-top: 120px;
+  border: 20px solid rgb(150,213,155);
+  border-bottom: 1px solid rgb(150,213,155);
+  margin: 0 auto;
+  text-align: center;
+ overflow: scroll;
+  background-image: linear-gradient(rgb(150,213,155), yellow)
+}
+
+.left {
+  border-bottom: 2px solid rgb(150,213,155);
+}
+
+td, p {
+  border-bottom: 2px solid rgb(150,213,155);
+}
+
+
